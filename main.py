@@ -1,1 +1,1 @@
-test
+print("Test rebase on branch protection")
